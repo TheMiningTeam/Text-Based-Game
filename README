@@ -1,0 +1,26 @@
+### ========== TODO ========== ###
+- Check the '# REQUIRED | Comment's
+- Add tutorial/Introduction
+- Let player take from storage chest Home
+- Fix "To your Up" and "To your Down" when looking around
+- Use key to unlock door
+- Add achievements
+
+### ========== PLOT ========== ###
+The plan is to make the manager (owner of The Store) have a speach about how terrible pant is and how we should remove it.
+Then GM demonstrates, but since everyone likes both, they can't decide.
+The manager says that they will all recieve free ____ if they vote YES.
+They vote YES if the player does not have enough evidence of that the manager hates the GM
+
+### ===== LORE LOCATIONS ===== ###
+One evidence is hidden in his office (obviousley)
+Another is talking to Hilda
+
+
+### ========== CODE ========== ###
+https://github.com/tqdm/tqdm | Used for loading bar
+
+### ========== NOTE ========== ###
+This game is not yet finished, and may have some bugs. If you do find any bugs, exploits or typos,
+please reachout to me on Discord: TheMiningTeam#7050
+[SUFFERING]
